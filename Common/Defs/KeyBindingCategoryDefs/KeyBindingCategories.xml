@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<KeyBindingCategoryDef>
+		<defName>PlanOnTheFlyKeys</defName>
+		<label>Plan On The Fly</label>
+		<description>Shortcuts for Plan On The Fly mod.</description>
+		<checkForConflicts></checkForConflicts>
+	</KeyBindingCategoryDef>
+
+</Defs>

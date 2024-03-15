@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<KeyBindingDef>
+		<category>PlanOnTheFlyKeys</category>
+		<defName>PlanToggleKey</defName>
+		<label>Plan On The Fly Toggle</label>
+		<defaultKeyCodeA></defaultKeyCodeA>
+	</KeyBindingDef>
+</Defs>
